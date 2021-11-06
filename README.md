@@ -5,6 +5,8 @@ The full detail of the data can't be told because it is still in progress with m
 
 FYI: Total election content negatively affects the communication system. It occurs in the ionosphere. So if we can predict the number of TEC, we will continue to maintain the communication system.
 
+----------------------------------------------
+
 **In-progress list:**
 
 1.Adding more features to be trained.
